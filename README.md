@@ -1,7 +1,7 @@
 # Student
-Student Database
-#Student Database with a MVC(Model-View-Controller) model with a login and logout page
-#output
+Student Database with a MVC(Model-View-Controller) model with a login and logout page
+
+Output
 
 ![2022-12-16](https://user-images.githubusercontent.com/115660974/208130352-b3d6540e-ecd4-41ab-951e-93980816d52b.png)
 ![2022-12-16 (1)](https://user-images.githubusercontent.com/115660974/208130460-3f52d425-3a57-4f58-a760-3b4f702530ae.png)
